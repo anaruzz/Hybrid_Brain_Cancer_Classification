@@ -1,3 +1,8 @@
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@<laabidigh>/<1>"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@<username>/<articleNumber>" alt="Recent article #1"></a>
+
+
+
+
 # ![](https://github.com/ggirlk/holbertonschool-machine_learning/blob/master/holberton-logo.png?raw=true) Portfolio Project: Brain Cancer Classification with QML <🧠|1>
 
 ![](goal.png)

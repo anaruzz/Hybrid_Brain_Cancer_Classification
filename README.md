@@ -4,9 +4,9 @@
 
 ## 🤖 Intro
 
->> Our project is a work of three teammates, manchened at the end of this document.
-We've used a new method Called Hybrid Quantum-Classical Model which is a mixe between Quantum Circuits used as Neural Network and a Classical Neural Network,
-Our Solution is about Brain Cancer Classification that means Classifying different Tumor types from MRI pictures so a Convolutional Neural Network is a normal method but here we did it with an Hybrid Quantum ConvNet as designed above:
+>> Our project is a work of three teammates, mentioned at the end of this document.
+The approach we went with is a Hybrid Quantum-Classical Model.
+Our Solution is Brain Cancer Classification: Classifying 3 Tumor types from MRI pictures using a Hybrid Quantum ConvNet as designed above:
 
 ![](Model.jpg)
 

@@ -1,4 +1,4 @@
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@<laabidigh>/<1>"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@<username>/<articleNumber>" alt="Recent article #1"></a>
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@<laabidigh>/<1>"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@<laabidigh>/<1>" alt="Recent article #1"></a>
 
 
 
